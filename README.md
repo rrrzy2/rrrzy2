@@ -5,5 +5,5 @@
 웹 프로그래밍과 자바(Java)에 관심이 많습니다.
 
 ## :computer: 사용 가능한 기술 (Tech Stack)
-* **언어**: Java, HTNL, CSS, JavaScript
-* **도구**: Git, GitHub, VS Code
+* **언어**: Java, HTNL, CSS, JavaScript, Python
+* **도구**: Git, GitHub, VS Code, Eclipse
