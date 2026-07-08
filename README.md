@@ -8,6 +8,9 @@
 * **언어**: Java, HTNL, CSS, JavaScript, Python
 * **도구**: Git, GitHub, VS Code, Eclipse
 
+## 취미
+* **🏸 베드민턴**를 좋아합니다.
+* **🎮 게임**하는 것을 좋아합니다.
 
 # 제목 1
 ## 제목 2
